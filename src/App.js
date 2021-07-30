@@ -10,7 +10,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <p>
-          James' react-app template
+          James' react-app template final
         </p>
         <a
           className="App-link"
